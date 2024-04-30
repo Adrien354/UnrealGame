@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Unreal" targetName="UnrealEditor-Win64-Shipping" />
+      <config projectName="Unreal" targetName="OnlyExampleEditor" />
+      <config projectName="Unreal" targetName="UnrealGame" />
+      <config projectName="Unreal" targetName="UnrealGame-Win64-DebugGame" />
+      <config projectName="Unreal" targetName="OnlyExample" />
+      <config projectName="Unreal" targetName="OnlyExample-Win64-Shipping" />
+      <config projectName="Unreal" targetName="UnrealEditor-Win64-DebugGame" />
+      <config projectName="Unreal" targetName="OnlyExampleEditor-Win64-DebugGame" />
+      <config projectName="Unreal" targetName="UnrealEditor" />
+      <config projectName="Unreal" targetName="FakeTarget" />
+      <config projectName="Unreal" targetName="UnrealGame-Win64-Shipping" />
+      <config projectName="Unreal" targetName="OnlyExample-Win64-DebugGame" />
+      <config projectName="Unreal" targetName="OnlyExampleEditor-Win64-Shipping" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e6aaec0-4b27-481c-9c05-1b473719b83e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Binaries/Win64/UnrealEditor-OnlyExample-0018.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Binaries/Win64/UnrealEditor-OnlyExample-0018.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Binaries/Win64/UnrealEditor-OnlyExample.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Binaries/Win64/UnrealEditor-OnlyExample.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Binaries/Win64/UnrealEditor-OnlyExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Binaries/Win64/UnrealEditor-OnlyExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Binaries/Win64/UnrealEditor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/../../Binaries/Win64/UnrealEditor.modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/BP_Models/CanStartFires/F_Campfire.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/BP_Models/CanStartFires/F_Campfire.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/BP_Models/CanStartFires/F_Parent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/BP_Models/CanStartFires/F_Parent.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/BP_Models/CanStartFires/F_furnace.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/BP_Models/CanStartFires/F_furnace.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/BP_Models/CanStartFires/Variables/S_CanStartFires_data.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/BP_Models/CanStartFires/Variables/S_CanStartFires_data.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/Character/MyExampleChar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/Character/MyExampleChar.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/Items/Items_BP/Food/ITM_Raw_Boar_Meat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/Items/Items_BP/Food/ITM_Raw_Boar_Meat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/Maps/TestingMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/Maps/TestingMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/Megascans/3D_Assets/Smoked_Meat_weuhdcyaa/MI_Smoked_Meat_weuhdcyaa_2K.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/Megascans/3D_Assets/Smoked_Meat_weuhdcyaa/MI_Smoked_Meat_weuhdcyaa_2K.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/Widgets/FireStarting/W_FireStartingUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/Widgets/FireStarting/W_FireStartingUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/Widgets/W_Inventory.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/Widgets/W_Inventory.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Content/Widgets/W_InventoryChildTile_CommonUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Content/Widgets/W_InventoryChildTile_CommonUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExampleChar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleChar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExampleChar.h" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleChar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/ItemData.h" beforeDir="false" afterPath="$PROJECT_DIR$/Public/ItemData.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/ItemFoodData.h" beforeDir="false" afterPath="$PROJECT_DIR$/Public/ItemFoodData.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fKZ2QYJyG9v64U0XvvKJQYwrrJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.FakeTarget.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "F:/GameProjects/OnlyExample/Source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.UnrealEditor">
+    <configuration name="FakeTarget" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="FakeTarget" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Unreal" RUN_TARGET_NAME="FakeTarget">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyExample-Win64-DebugGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="OnlyExample-Win64-DebugGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyExample-Win64-Shipping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="OnlyExample-Win64-Shipping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyExample" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="OnlyExample" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyExampleEditor-Win64-DebugGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="OnlyExampleEditor-Win64-DebugGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyExampleEditor-Win64-Shipping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="OnlyExampleEditor-Win64-Shipping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyExampleEditor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="OnlyExampleEditor" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnrealEditor-Win64-DebugGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="UnrealEditor-Win64-DebugGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnrealEditor-Win64-Shipping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="UnrealEditor-Win64-Shipping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnrealEditor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="UnrealEditor" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnrealGame-Win64-DebugGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="UnrealGame-Win64-DebugGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnrealGame-Win64-Shipping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="UnrealGame-Win64-Shipping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnrealGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Unreal" TARGET_NAME="UnrealGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.FakeTarget" />
+      <item itemvalue="CMake Application.OnlyExample" />
+      <item itemvalue="CMake Application.OnlyExample-Win64-DebugGame" />
+      <item itemvalue="CMake Application.OnlyExample-Win64-Shipping" />
+      <item itemvalue="CMake Application.OnlyExampleEditor" />
+      <item itemvalue="CMake Application.OnlyExampleEditor-Win64-DebugGame" />
+      <item itemvalue="CMake Application.OnlyExampleEditor-Win64-Shipping" />
+      <item itemvalue="CMake Application.UnrealEditor" />
+      <item itemvalue="CMake Application.UnrealEditor-Win64-DebugGame" />
+      <item itemvalue="CMake Application.UnrealEditor-Win64-Shipping" />
+      <item itemvalue="CMake Application.UnrealGame" />
+      <item itemvalue="CMake Application.UnrealGame-Win64-DebugGame" />
+      <item itemvalue="CMake Application.UnrealGame-Win64-Shipping" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\adrqw\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\GameProjects\OnlyExample" />
+          <option name="myCopyRoot" value="F:\GameProjects\OnlyExample" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\GameProjects\OnlyExample" />
+          <option name="myCopyRoot" value="F:\GameProjects\OnlyExample" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e6aaec0-4b27-481c-9c05-1b473719b83e" name="Changes" comment="" />
+      <created>1713470965345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713470965345</updated>
+      <workItem from="1713470967938" duration="61000" />
+      <workItem from="1713551526414" duration="2000" />
+      <workItem from="1713551530531" duration="678000" />
+      <workItem from="1713554602471" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
